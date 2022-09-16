@@ -96,7 +96,7 @@ h1{
 img{
     width: 380px;
     padding: 10px;
-    border-radius: 8%;
+    border-radius: 6%;
 }
 
 
@@ -104,6 +104,7 @@ img{
     display: flex;
     justify-content: space-between;
      flex-wrap: wrap;
+     flex: 0 1 30%;
 }
 
 .footer{
