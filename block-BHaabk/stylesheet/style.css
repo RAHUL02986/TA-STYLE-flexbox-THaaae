@@ -53,6 +53,7 @@ table {
     height: 72px;
     line-height: 72px;
     color: rgb(179, 196, 202);
+    position: fixed;
 }
 .brand{
     text-align: left;
